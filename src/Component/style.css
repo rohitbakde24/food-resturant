@@ -1,0 +1,29 @@
+.navbg{
+    background-color: #584bb8;
+    color: white;
+   
+}
+.bg-btn{
+    background-color: #584bb8;
+    border: none;
+}
+.bg-btn:hover{
+    background-color: rgb(25, 26, 52);
+}
+.bg-gradient{
+    background: linear-gradient(45deg, #b8aff9 0 50%,rgb(25, 26, 52)  50% 100%) !important;
+  }
+.link{
+    text-decoration: none;
+    color: white;
+}
+.link:hover{
+    color: white;
+}
+.placr-order{
+    background-color: #584bb8;
+    color: white !important;
+}
+.placr-order:hover{
+    background-color:rgb(25, 26, 52) ;
+}

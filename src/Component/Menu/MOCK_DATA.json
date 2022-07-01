@@ -1,0 +1,4 @@
+[{"id":1,"title":"Burgur","image":"data/burger.jpeg","price":79,"qty":1},
+{"id":2,"title":"Fries","image":"data/fries.jpeg","price":119,"qty":1},
+{"id":3,"title":"Pepsi","image":"data/pepsi.jpeg","price":59,"qty":1},
+{"id":4,"title":"Coke","image":"data/coke.jpeg","price":49,"qty":1}]
